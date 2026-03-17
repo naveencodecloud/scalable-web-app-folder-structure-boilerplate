@@ -1,0 +1,1 @@
+// Here call `/products/:id` api endpoint

@@ -1,0 +1,41 @@
+/* reset global styles
+   the @layer components {} block is where you put reusable Tailwind component classes
+*/
+
+* {
+    @apply transition-colors duration-300;
+    box-sizing: border-box;
+}
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        font-family: 'Inter', sans-serif;
+        font-synthesis: none;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    button {
+        cursor: pointer;
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .font-serif {
+        font-family: "Playfair Display", serif;
+    }
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+@layer components {}

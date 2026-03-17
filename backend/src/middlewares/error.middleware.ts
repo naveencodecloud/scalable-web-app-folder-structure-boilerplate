@@ -1,0 +1,1 @@
+// Global error handler — catches all errors thrown in controllers/services

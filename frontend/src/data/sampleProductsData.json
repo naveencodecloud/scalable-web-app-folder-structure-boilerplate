@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Classic White Tee",
+    "price": 29.99,
+    "description": "A clean everyday essential.",
+    "category": "mens",
+    "inStock": true,
+    "image": "https://via.placeholder.com/300x400"
+  },
+  {
+    "id": "2",
+    "name": "Slim Fit Chinos",
+    "price": 59.99,
+    "description": "Versatile chinos for any occasion.",
+    "category": "mens",
+    "inStock": true,
+    "image": "https://via.placeholder.com/300x400"
+  },
+  {
+    "id": "3",
+    "name": "Floral Summer Dress",
+    "price": 79.99,
+    "description": "Light and breezy for warm days.",
+    "category": "womens",
+    "inStock": false,
+    "image": "https://via.placeholder.com/300x400"
+  }
+]
