@@ -5,7 +5,7 @@
 
 ## Get Started
 
-### 1.Clone the project
+### 1. Clone the project
 
 ```
 git clone https://github.com/naveencodecloud/scalable-web-app-folder-structure-boilerplate.git
